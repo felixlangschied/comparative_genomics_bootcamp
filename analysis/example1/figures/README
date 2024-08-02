@@ -1,0 +1,8 @@
+Figures created during the explorative part of the "example1" analysis 
+are stored here.
+
+Finalized figures ("publication-ready") are moved to "shared_figures" and
+must have a corresponding metadata file that informs about:
+	* input data
+	* path to script that generated figure
+	* variables
